@@ -1,6 +1,6 @@
 ### Hi, It's Aditya here 👋
 
-I'm a Computer Science & Engineering student from Bengaluru, India. Cloud and DevOps Enthusiast.
+I'm a Computer Science undergrad at PES University, Bangalore | AWS Cloud & DevOps Engineer | Facilitating knowledge transfer sessions for new DevOps enthusiasts | #ContinuousLearning | Organizer | Connect with me on LinkedIn and GitHub!
 
 - 🔭 I’m currently working on projects in AWS and Terraform.
 - 🌱 I’m currently learning Automation using Terraform.
