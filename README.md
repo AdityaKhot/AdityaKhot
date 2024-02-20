@@ -63,5 +63,3 @@ I'm a Computer Science undergrad at PES University, Bangalore | AWS Cloud & DevO
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaKhot&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="AdityaKhot"/></p> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaKhot&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKhot&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
