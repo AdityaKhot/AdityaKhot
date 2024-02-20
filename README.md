@@ -58,8 +58,10 @@ I'm a Computer Science undergrad at PES University, Bangalore | AWS Cloud & DevO
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
   </a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjayhjp121&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="sanjayhjp121"/></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityaKhot&show_icons=true" alt="AdityaKhot" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaKhot&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="AdityaKhot"/></p> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaKhot&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKhot&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKhot&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
