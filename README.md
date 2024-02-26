@@ -1,4 +1,4 @@
-### Hi, It's Aditya here 👋
+### Hi there, It's Aditya 👋
 
 I'm a Computer Science undergrad at PES University, Bangalore | AWS Cloud & DevOps Engineer | Facilitating knowledge transfer sessions for new DevOps enthusiasts | #ContinuousLearning | Organizer | Connect with me on LinkedIn and GitHub!
 
@@ -6,9 +6,11 @@ I'm a Computer Science undergrad at PES University, Bangalore | AWS Cloud & DevO
 - 🌱 I’m currently learning Automation using Terraform.
 - 📫 How to reach me: Drop me a mail on khotaditya22@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaKhot" alt="skynet-05" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aditya-khot-5b1320217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-sanjay121" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-khot-5b1320217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AdityaKhot" height="30" width="40" /></a>
 <!-- <a href="https://www.codechef.com/users/i_sanjay121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_sanjay121" height="30" width="40" /></a> -->
 </p>
 
