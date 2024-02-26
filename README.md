@@ -6,7 +6,7 @@ I'm a Computer Science undergrad at PES University, Bangalore | AWS Cloud & DevO
 - 🌱 I’m currently learning Automation using Terraform.
 - 📫 How to reach me: Drop me a mail on khotaditya22@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaKhot" alt="skynet-05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaKhot" alt="AdityaKhot" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
